@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Windy
+Comment=Morph based windy.com Webapp
+Exec=qmlscene %u app/Main.qml --scaling --software
+Terminal=false
+Type=Application
+Icon=icon.png
+X-Ubuntu-Touch=true
+
+X-Ubuntu-Splash-Color=#a41d24
+X-Ubuntu-Splash-Image=icon-splash.png
+
+Name[en_US]=Windy
